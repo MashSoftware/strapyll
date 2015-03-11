@@ -11,6 +11,9 @@ github_url: https://github.com/
 github_user: mashsoftware
 github_repo: strapyll
 
+gems:
+  - jekyll-sitemap
+
 # Build settings
 markdown: kramdown
 permalink: pretty
