@@ -1,20 +1,23 @@
 # Site settings
-title: Strapyll # replace this with your own
-author: Mash Software # replace this with your own
-email:
-description:
+title: My Site # replace this with your own
+author: Site Author # replace this with your own
+email: site.author@domain.com # replace this with your own
+description: My awesome website about awesome things! # replace this with your own
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 theme: bootstrap
+
+gems:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
 
 github_url: https://github.com/
 github_user: mashsoftware
 github_repo: strapyll
 
-gems:
-  - jekyll-sitemap
-
 # Build settings
 markdown: kramdown
 permalink: pretty
 exclude: [vendor]
+highlighter: pygments
