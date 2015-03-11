@@ -12,6 +12,10 @@ gems:
   - jekyll-mentions
   - jemoji
 
+github_url: https://github.com/
+github_user: mashsoftware
+github_repo: strapyll
+
 # Build settings
 markdown: kramdown
 permalink: pretty
