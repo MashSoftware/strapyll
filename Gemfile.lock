@@ -152,7 +152,7 @@ GEM
     sass (3.4.13)
     slop (3.6.0)
     terminal-table (1.4.5)
-    thread_safe (0.3.4)
+    thread_safe (0.3.5)
     timers (4.0.1)
       hitimes
     toml (0.1.2)
